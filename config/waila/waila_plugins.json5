@@ -256,6 +256,26 @@
     // Default value: [true]
     showcustomname: true
   },
+  mekanism: {
+    // config.waila.plugin_mekanism.energy
+    // Default value: [true]
+    energy: true,
+    // config.waila.plugin_mekanism.fluid
+    // Default value: [true]
+    fluid: true,
+    // config.waila.plugin_mekanism.gas
+    // Default value: [true]
+    gas: true,
+    // config.waila.plugin_mekanism.infuse_type
+    // Default value: [true]
+    infuse_type: true,
+    // config.waila.plugin_mekanism.pigment
+    // Default value: [true]
+    pigment: true,
+    // config.waila.plugin_mekanism.slurry
+    // Default value: [true]
+    slurry: true
+  },
   wailax: {
     // Show Block Energy
     // Require server to have WTHIT installed, if not, will be locked to [false]
