@@ -2,15 +2,15 @@
 .fabric/
 .mixin.out
 
-XaeroWaypoints
-crash-reports
-essential
-logs
-saves
-screenshots
-xaero
-schematics
-data
+xaero/
+crash-reports/
+essential/
+logs/
+saves/
+screenshots/
+schematics/
+data/
+wurst/
 
 .git
 options.txt
