@@ -1,32 +1,23 @@
 type = customizablemenus
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+net.minecraft.client.gui.screens.TitleScreen {
 }
 
-net.minecraft.class_442 {
+net.minecraft.client.gui.screens.PauseScreen {
 }
 
-net.minecraft.class_433 {
+net.minecraft.client.gui.screens.GenericDirtMessageScreen {
 }
 
-net.minecraft.class_424 {
+net.minecraft.client.gui.screens.LevelLoadingScreen {
 }
 
-net.minecraft.class_3928 {
+net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
 }
 
-net.minecraft.class_500 {
+net.minecraft.client.gui.screens.OptionsScreen {
 }
 
-net.minecraft.class_435 {
-}
-
-net.minecraft.class_412 {
-}
-
-net.minecraft.class_434 {
-}
-
-net.minecraft.class_429 {
+com.plr.quitornot.client.screen.confirm.ConfirmScreen {
 }
 

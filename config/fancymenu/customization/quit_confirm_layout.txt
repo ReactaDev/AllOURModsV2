@@ -32,69 +32,6 @@ scroll_list_customization {
 }
 
 element {
-  shape = rectangle
-  color = #00000080
-  element_type = shape
-  instance_identifier = 0bcc3d3d-2b6c-49d1-9d6f-2897414b9825-1728580936011
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = -89
-  y = -50
-  width = 179
-  height = 100
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = cf0fadc5-bd56-48bf-bd67-0829135d4f96-1728580936011
-  [loading_requirement_container_meta:cf0fadc5-bd56-48bf-bd67-0829135d4f96-1728580936011] = [groups:][instances:]
-}
-
-element {
-  interactable = true
-  source = Are you Sure you want to Quit?
-  source_mode = direct
-  shadow = true
-  scale = 1.0
-  base_color = #FFFFFFFF
-  text_border = 2
-  line_spacing = 2
-  enable_scrolling = true
-  auto_line_wrapping = true
-  remove_html_breaks = true
-  code_block_single_color = #737373FF
-  code_block_multi_color = #565656FF
-  headline_line_color = #A9A9A9FF
-  separation_line_color = #A9A9A9FF
-  hyperlink_color = #0771FCFF
-  quote_color = #818181FF
-  quote_indent = 8.0
-  quote_italic = false
-  bullet_list_dot_color = #A9A9A9FF
-  bullet_list_indent = 8.0
-  bullet_list_spacing = 3.0
-  parse_markdown = true
-  element_type = text_v2
-  instance_identifier = 3e4ad597-84a8-4797-b7f2-63a8ff8ee18d-1728580993411
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = -82
-  y = -45
-  width = 164
-  height = 16
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = f891ca33-57f7-4bdf-84f1-a83024bbf0eb-1728580993411
-  [loading_requirement_container_meta:f891ca33-57f7-4bdf-84f1-a83024bbf0eb-1728580993411] = [groups:][instances:]
-}
-
-element {
   button_element_executable_block_identifier = 45258f6f-d1e7-4772-b073-5a3d7b9fec77-1728581105730
   [executable_action_instance:9a2678b9-5738-476b-a011-c118d7cfb49d-1728581267080][action_type:quitgame] = 
   [executable_block:45258f6f-d1e7-4772-b073-5a3d7b9fec77-1728581105730][type:generic] = [executables:9a2678b9-5738-476b-a011-c118d7cfb49d-1728581267080;]
