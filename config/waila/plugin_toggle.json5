@@ -7,5 +7,6 @@
   "waila:forge": true,
   "securitycraft:plugin": true,
   "mekanism:plugin": true,
-  "minecraft:cookingforblockheads": true
+  "minecraft:cookingforblockheads": true,
+  "waystones:plugin": true
 }
