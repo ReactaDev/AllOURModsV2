@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = false
-  world = C:/Users/owena/curseforge/minecraft/Instances/All Our Mods V2/saves/New World (1)
+  is_server = true
+  world = 74.112.76.155:25565
 }
 
